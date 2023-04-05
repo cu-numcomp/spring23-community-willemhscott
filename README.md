@@ -65,11 +65,9 @@ ile an issue with the project (check their docs to see how they prefer).
 
 1. Create a notebook or other presentation in this repository (could be a PDF, video, etc.). You'll make this public (circa April 4) to share with peers. If you make a video or presentation
 that you wish to host elsewhere, please create a markdown file with a brief title and abstract, and link to the external presentation.
-2. Try to convey what you've learned about the project in what would take 5-10 minutes to read/watch. If it's software that can run in a notebook, you can include runnable examples. Images a
-nd plots are highly encouraged.
+2. Try to convey what you've learned about the project in what would take 5-10 minutes to read/watch. If it's software that can run in a notebook, you can include runnable examples. Images and plots are highly encouraged.
 3. Share at least one question you have about the software.
-4. Propose at least one experiment that would be interesting for a group project. Describe what the experiment would measure and how it would be presented (e.g., what the axes would be on a
-figure).
+4. Propose at least one experiment that would be interesting for a group project. Describe what the experiment would measure and how it would be presented (e.g., what the axes would be on a figure).
 5. Commit and push to your repository.
 6. Make your repository public on GitHub by clicking "Settings", scroll to the bottom and "Change visibility".
 
